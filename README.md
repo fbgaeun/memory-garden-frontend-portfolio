@@ -201,7 +201,7 @@ AI와 대화를 진행하며 추억을 회상합니다.
 
 연동된 어르신의 최근 기록, 그림일기와 위험도 정보를 확인할 수 있습니다.
 
-<img src="images/guardian-dashboard.png" width="900">
+<img src="images/guardian-dashboard.jpg" width="900">
 
 ---
 
